@@ -1,0 +1,26 @@
+Terraria; Survival; Re-Logic; 16 May 2011; 9.99
+The Witcher 3: Wild Hunt; RPG; CD PROJEKT RED; 18 May 2015; 49.99
+Ghostrunner; FPS; One More Level; 27 October 2020; 14.99
+Team Fortress 2; FPS; Valve; 10 October 2007; 0
+Cyberpunk 2077; Action-Adventure; CD PROJEKT RED; 10 December 2020; 59.99
+Monster Hunter: World; Action-Adventure; CAPCOM Co., Ltd.; 8 August 2018; 29.99
+Red Dead Redemption 2; Action-Adventure; Rockstar Games; 5 December 2019; 59.99
+Watch_Dogs 2; Action; Ubisoft; 29 November 2016; 49.99
+Fortnite; Battle Royale; Epic Games; 25 July 2017; 0
+Rust; Survival; Facepunch Studios; 8 February 2018; 39.99
+Forza Horizon 4; Racing; Playground Games; 9 March 2021; 59.99
+Battlefield 1; FPS; DICE; 20 October 2016; 9.99
+Among Us; Social Deduction; Innersloth; 16 November 2018; 4.99
+Horizon Zero Dawn; Action-Adventure; Guerrilla; 7 August 2020; 49.99
+Assassin's Creed Origins; RPG; Ubisoft; 27 October 2017; 59.99
+The Crew 2; Racing; Ivory Tower; 29 June 2018; 49.99
+Tom Clancy's Rainbow 6 Siege; FPS; Ubisoft; 2 December 2015; 19.99
+Dying Light; Survival-Horror; Techland; 26 January 2015; 13.59
+ARK: Survival Evolved; Survival; Studio Wildcard; 27 August 2017; 9.99
+Sid Meier's Civilization VI; Strategy; Firaxis Games; 21 October 2016; 59.99
+Sea of Thieves; Action-Adventure; Rare Ltd; 3 June 2020; 39.99
+Fall Guys: Ultimate Knockout; Battle Royale; Mediatonic; 4 August 2020; 19.99
+Aim Lab; FPS; Statespace; 7 February 2018; 0
+Destiny 2; FPS; Bungie; 1 October 2019; 0
+NBA 2K21; Basketball; Visual Concepts; 4 September 2020; 59.99
+Battlefield V; FPS; DICE; 9 November 2018; 16.49
